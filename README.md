@@ -1,4 +1,7 @@
 # PythonForMachineLearningSeries
+
+### We hope the notebook for the introduction reached all of you..
+### If you did not get them reach out for them
 This is the noteooks we have been using in our data science/ml series
 
 
